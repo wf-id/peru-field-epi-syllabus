@@ -54,6 +54,8 @@ The primary textbook for this course is available online at [Introduction to Fie
 Any additional resources that are required will be provided in the course.
 Some articles that we will review will include:
 
+- DeWitt ME, Sanders JW. Tropical Diseases in the United States: Beyond Poverty – Advancing an Ecological Framework in Tropical Medicine. The American Journal of Tropical Medicine and Hygiene 2024;111:1–3. https://doi.org/10.4269/ajtmh.24-0251.
+- Sanders JW, Fuhrer GS, Johnson MD, Riddle MS. The epidemiological transition: the current status of infectious diseases in the developed world versus the developing world. Sci Prog 2008;91:1–37. https://doi.org/10.3184/003685008X284628.
 - Plowright RK, Parrish CR, McCallum H, Hudson PJ, Ko AI, Graham AL, et al. Pathways to zoonotic spillover. Nat Rev Microbiol 2017;15:502–10. https://doi.org/10.1038/nrmicro.2017.45.
 - Taylor LH, Taylor LH, Latham SM, Woolhouse MEJ. Risk factors for human disease emergence. Philosophical Transactions of the Royal Society B 2001;356:983–9. https://doi.org/10.1098/rstb.2001.0888.
 - Goodman RA, Buehler JW, Koplan JP. THE EPIDEMIOLOGIC FIELD INVESTIGATION: SCIENCE AND JUDGMENT IN PUBLIC HEALTH PRACTICE. American Journal of Epidemiology 1990;132:9–16. https://doi.org/10.1093/oxfordjournals.aje.a115647.
@@ -77,20 +79,19 @@ This course is composed into two parts:
 
 | Topic | Date :| Instructor :|
 |------------------------|------|------------|
-| 1. Global surveillance and outbreak response | May 28 | Sanders |
-| 2. Overview of tropical diseases, clinical relevance, and global health priorities | May 28 | Sanders |
-| 3. The Incident Command System | May 28 | DeWitt |
+| 1. Overview of tropical diseases, clinical relevance, and global health priorities | May 28 | Sanders |
+| 2. Global Health Surveillance, Biosecurity, and Outbreak Response | May 28 | Sanders |
+| 3. The Incident Command System and Outbreak Infrastructure | May 28 | DeWitt |
 | 4. Infectious disease ecology and zoonoses | May 28 | DeWitt |
-| 5. Diagnostic approaches for infectious diseases | May 29 | Sanders
-| 6. Basics of parasitology | May 29 | Sanders
-| 7. Basics of vector-borne diseases | May 29 | Sanders
-| 8. Introduction to animal dissection | May 29 | Bellotti
-| 9. Introduction to dissection techniques | May 29 | Bellotti
+| 5. Evolution and Infectious Diseases |  May 28 | DeWitt |
+| 6. Diagnostic approaches for infectious diseases | May 29 | Sanders
+| 7. Basics of parasitology | May 29 | Sanders
+| 8. Basics of vector-borne diseases | May 29 | Sanders
+| 9. Introduction to animal dissection | May 29 | Bellotti
 | 10. Travel medicine and field safety during epidemiologic investigations | May 30 | Sanders
 | 11. Epidemiology 101: The basics of epidemiology | May 30 | Bellotti & DeWitt
 | 12. Data management and geospatial analysis for field epidemiology | May 30 | DeWitt
 | 13. An overview of Northern Peru | May 30 | TBD
-
 
 
 ## Part 2: Field-based activities

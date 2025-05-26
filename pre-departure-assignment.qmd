@@ -1,0 +1,35 @@
+---
+title: "Pre-Departure Assignment"
+params:
+  course_number: "301"
+output:
+  pdf_document:
+    latex_engine: xelatex
+---
+
+# Assignment
+
+All readings for this assignment are available in the Google Drive folder for this course [located at this link](https://drive.google.com/drive/folders/1ksVkhGwHSyn5Rfqq4GRWhnUZ1yTE_Obh?usp=share_link).
+
+Please provide responses to the following questions in a single file.
+Please repeat the prompt for each part before answering the prompt.
+Your completed responses should be no more than 3 pages.
+If you utilize any external sources, please cite them in the text.
+
+Please submit your responses to Michael DeWitt at [dewime23@wfu.edu](mailto:dewime23@wfu.edu) by 11:59pm on June 1, 2025.
+
+## Part 1
+
+Please review DeWitt ME, Sanders JW. [Tropical Diseases in the United States: Beyond Poverty – Advancing an Ecological Framework in Tropical Medicine](https://drive.google.com/file/d/1FqzkrBf1U2ZCpU5dTyBCpCJQKefxXFK1/view?usp=share_link).
+
+1. The authors mention that infectious disease ecology goes beyond the concept of One Health. What are some of the main ideas behind One Health?
+2. What are some of the main ideas and tools behind infectious disease ecology mentioned by the authors? Describe them briefly.
+3. The authors mention that climate change, international trade, and changes in land use could impact disease transmission. Pick one of these factors and describe how you think it could impact disease transmission.
+
+## Part 2
+
+Please select one of the remaining articles from the Google Drive folder and review it. For the article that you slected please answer the following questions:
+
+1. Which articles did you select?
+2. What were the main findings of the article?
+3. How do you think this article applies to international field epidemiology and tropical medicine?
